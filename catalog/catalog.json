@@ -1,0 +1,155 @@
+{
+	"head": {
+		"protocolVersion": "1.0",
+		"apiVersion": "1.0",
+		"playerDevMode": false,
+		"fromCache": true,
+		"serverName": "Link3DS Channel",
+		"processTime": "3.46ms",
+		"memoryUsage": "1.07 MB",
+		"memoryPeakUsage": "1.12 MB"
+	},
+	"body": [
+		{
+			"setNode": {
+				"id": "root",
+				"type": "root",
+				"children": [
+					{
+						"id": "channel:category1",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					},
+					{
+						"id": "channel:category2",
+						"version": "7a6f5387cea37c915a15b50a16214cd7"
+					}
+				],
+				"version": "73dc61d9b2b6bfb373e4c0ae8bb9a5ae"
+			}
+		},
+		{
+			"setNode": {
+				"id": "episode:trailerjpn1",
+				"version": "55d29a3bf5f0ed8b98234f2b88911f4c",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "AquaMoto™ RACING 3D",
+				"description": "JPN / AquaMoto™ RACING 3D (3DS)",
+				"mediaUrls": {
+					"jpn": "http://cdn.ghosteshop.com/db/3ds/videos/moflex/a6ac6a4cc05ca9a210a857b304c910caecc58e67d3d2a337ae340eb0a85376cc.moflex"
+				},
+				"viewCount": 0,
+				"imageUrls": {
+					"default": "https://cdn.ghosteshop.com/db/3ds/videos/images/JPN%20%20AquaMoto%E2%84%A2%20RACING%203D%20%283DS%29/banner.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+		{
+			"setNode": {
+				"id": "episode:testvideo2",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 0,
+				"title": "SDcard video",
+				"description": "3 A.M. 3D (thai audio) (english subs) (2012)",
+				"mediaUrls": {
+					"en": "http://cdn.moflix.irish/3%20A.M.%203D%20(thai%20audio)%20(english%20subs)%20(2012).moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE02-thumbnail.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+		{
+			"setNode": {
+				"id": "episode:testvideo3",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 1,
+				"ageRate": 0,
+				"title": "Title go here",
+				"description": "Description go here",
+				"mediaUrls": {
+					"en": "https://place_your_video_link_here.com/video_file.moflex",
+					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE02-thumbnail.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+		{
+			"setNode": {
+				"id": "episode:testvideo4",
+				"version": "649f671be9bd0e2bf9fa18d73de07d57",
+				"type": "episode",
+				"number": 2,
+				"ageRate": 0,
+				"title": "Title go here",
+				"description": "Description go here",
+				"mediaUrls": {
+					"en": "https://place_your_video_link_here.com/video_file.moflex",
+					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+				},
+				"viewCount": 111,
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE02-thumbnail.3dst"
+				},
+				"agePrerollVideo": ""
+			}
+		},
+
+
+		{
+			"setNode": {
+				"id": "channel:category1",
+				"type": "channel",
+				"title": "Test videos",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE03-thumbnail.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:trailerjpn1",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:testvideo2",
+						"version": "649f671be9bd0e2bf9fa18d73de07d57"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		},
+		{
+			"setNode": {
+				"id": "channel:category2",
+				"type": "channel",
+				"title": "Your videos!",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE03-thumbnail.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:testvideo3",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					},
+					{
+						"id": "episode:testvideo4",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		}
+	]
+}
